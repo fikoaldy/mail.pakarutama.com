@@ -1,1 +1,1 @@
-# mail.pakarutama.com
+# http://mail.pakarutama.com
